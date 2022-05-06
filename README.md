@@ -175,6 +175,8 @@ province_area_map.get_relational_addrs(('江苏省', '鼓楼区')) # [('江苏�
 pip install pyecharts==0.5.11
 pip install echarts-countries-pypkg
 pip install pyecharts-snapshot
+pip install Jinja2==3.0.3
+pip install folium
 ```
 
 使用本仓库提供的一万多条地址数据[tests/addr.csv](./tests/addr.csv)测试。
