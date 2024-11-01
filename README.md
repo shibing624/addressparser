@@ -31,7 +31,7 @@
 数据文件存储在：[addressparser/resources/pca.csv](./addressparser/resources/pca.csv)，数据为[2021年统计用区划代码和城乡划分代码（截止时间：2021-10-31，发布时间：2021-12-30）](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2021/index.html)
 
 ## Demo
-http://42.193.145.218/product/address_extraction/
+https://www.mulanai.com/product/address_extraction/
 
 ## Install
 ```
